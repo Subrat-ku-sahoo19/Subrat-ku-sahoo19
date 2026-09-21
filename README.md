@@ -1,12 +1,62 @@
-# 👋 Hi, I'm Subrat Ku Sahoo
+<div align="center">
 
-### 💻 B.Tech CSE Student | Python Developer | Data Analyst | AI/ML Enthusiast
+# 👋 Hi, I'm Subrat Sahoo
 
-I enjoy building practical software solutions using **Python, Data Analytics, Full-Stack Development, Machine Learning, and Generative AI**.
+### 🚀 Python Developer | Data Analyst | AI/ML Enthusiast | Full-Stack Developer
 
-My goal is to transform real-world problems into useful, data-driven and AI-powered applications.
+<p>
+  Building practical software, data-driven solutions, and AI-powered applications
+  to solve real-world problems.
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Python+Developer;Data+Analytics+Enthusiast;AI%2FML+Explorer;Full+Stack+Developer;Problem+Solver;Building+Real+World+Projects" />
+
+<br><br>
+
+<a href="https://github.com/Subrat-ku-sahoo19">
+<img src="https://img.shields.io/badge/GitHub-Subrat--ku--sahoo19-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Subrat-ku-sahoo19&style=for-the-badge&color=blue" />
+
+</div>
 
 ---
+
+# 🚀 About Me
+
+Hi! I'm **Subrat Sahoo**, a final-year **B.Tech Computer Science & Engineering student** passionate about building practical software and solving real-world problems using technology.
+
+My main areas of interest are:
+
+- 🐍 **Python Development**
+- 📊 **Data Analysis & Visualization**
+- 🤖 **Artificial Intelligence & Machine Learning**
+- 🌐 **Full-Stack Web Development**
+- 🧠 **LLM & AI-powered Applications**
+- 🗄️ **SQL & Database Systems**
+- 🧩 **Data Structures & Algorithms**
+
+I enjoy transforming an idea into a working solution:
+
+```text
+💡 Problem
+     ↓
+📋 Requirements
+     ↓
+📊 Data
+     ↓
+🧠 Analysis & Logic
+     ↓
+⚙️ Development
+     ↓
+🤖 AI / Automation
+     ↓
+🚀 Real-World Solution
 
 ## 🛠️ Tech Stack
 
@@ -145,28 +195,13 @@ I'm exploring AI technologies and building practical AI-powered applications.
 
 ---
 
-# 🌟 Featured Projects
+#🤖 Machine Learning
+██████████████░░░░░░ 70%
 
-## 🧠 1. OpsMind AI
+Working on:
 
-### AI-Powered Business Operations & Intelligence Platform
-
-**OpsMind AI** is an AI-powered business intelligence platform designed to help businesses understand operational data and generate useful insights.
-
-### Features
-
-- 📊 Business analytics
-- 🤖 AI-powered insights
-- 📈 Operational dashboards
-- 🧠 Intelligent analysis
-- 📋 Business performance monitoring
-- 🔍 Data-driven decision support
-
-### Technologies
-
-```text
-Python
-AI / LLM
-Data Analytics
-Web Development
-REST APIs
+Supervised Learning
+Unsupervised Learning
+Feature Engineering
+Model Evaluation
+Predictive Analytics
