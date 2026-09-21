@@ -27,9 +27,7 @@
 
 ---
 
-# 🚀 About Me
 
-Hi! I'm **Subrat Sahoo**, a final-year **B.Tech Computer Science & Engineering student** passionate about building practical software and solving real-world problems using technology.
 
 My main areas of interest are:
 
@@ -43,7 +41,7 @@ My main areas of interest are:
 
 I enjoy transforming an idea into a working solution:
 
-```text
+
 💡 Problem
      ↓
 📋 Requirements
