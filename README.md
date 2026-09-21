@@ -1,65 +1,172 @@
-<!-- ===================== HEADER ===================== -->
+# 👋 Hi, I'm Subrat Ku Sahoo
 
-<div align="center">
+### 💻 B.Tech CSE Student | Python Developer | Data Analyst | AI/ML Enthusiast
 
-# 👋 Hi, I'm Subrat Sahoo
+I enjoy building practical software solutions using **Python, Data Analytics, Full-Stack Development, Machine Learning, and Generative AI**.
 
-### 🚀 B.Tech CSE Student | Python Developer | Data Analyst | AI/ML Enthusiast
+My goal is to transform real-world problems into useful, data-driven and AI-powered applications.
 
-<p>
-  Building practical software, data-driven solutions, and AI-powered applications
-  that solve real-world problems.
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer;Data+Analytics+Enthusiast;AI%2FML+Explorer;Full+Stack+Developer;Problem+Solver;Building+Real+World+Projects" />
-
-</div>
-
----
-
-<!-- ===================== SOCIAL LINKS ===================== -->
-
-<div align="center">
-
-<a href="https://github.com/Subrat-ku-sahoo19">
-<img src="https://img.shields.io/badge/GitHub-Subrat--ku--sahoo19-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Subrat-ku-sahoo19&style=for-the-badge&color=blue" />
-
-</div>
+- 🐍 Python
+- 🟨 JavaScript
+- 🌐 HTML5
+- 🎨 CSS3
+- 🗄️ SQL
 
 ---
 
-# 🚀 About Me
+# 🌐 Full-Stack Development
 
-Hi! I'm **Subrat Sahoo**, a final-year **B.Tech Computer Science & Engineering student** passionate about building software that solves practical problems.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,django,flask" />
+</p>
 
-My main areas of interest are:
+### Frontend
 
-- 🐍 **Python Development**
-- 📊 **Data Analysis & Visualization**
-- 🤖 **Artificial Intelligence & Machine Learning**
-- 🌐 **Full-Stack Web Development**
-- 🧠 **LLM & AI-powered Applications**
-- 🗄️ **SQL & Database Systems**
-- 🧩 **Data Structures & Algorithms**
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Responsive UI
+- Component-based development
 
-I enjoy taking an idea from:
+### Backend
+
+- Python
+- FastAPI
+- Flask
+- Django
+- REST APIs
+- Authentication
+- CRUD Applications
+
+---
+
+# 📊 Data Analytics
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
+
+### Tools & Skills
+
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- SQL
+- Microsoft Excel
+- Power BI
+
+### Data Analysis
+
+- Data Cleaning
+- Data Preprocessing
+- Exploratory Data Analysis
+- Statistical Analysis
+- Data Visualization
+- Correlation Analysis
+- Trend Analysis
+- Business Insights
+
+---
+
+# 🤖 AI / Machine Learning
+
+I'm exploring AI technologies and building practical AI-powered applications.
+
+### Areas of Interest
+
+- Machine Learning
+- Natural Language Processing
+- Generative AI
+- Large Language Models
+- LLM Applications
+- AI Agents
+- RAG
+- Semantic Search
+- Embeddings
+- Vector Search
+- Explainable AI
+- Predictive Analytics
+- AI Automation
+
+### Tools
+
+- Scikit-learn
+- Sentence Transformers
+- FAISS
+- Ollama
+- LLM APIs
+- Google AI Studio
+
+---
+
+# 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+</p>
+
+- MySQL
+- PostgreSQL
+- SQLite
+- SQL Queries
+- Database Design
+- CRUD Operations
+- Relational Databases
+
+---
+
+# 🔧 Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,postman,docker" />
+</p>
+
+- Git
+- GitHub
+- VS Code
+- PyCharm
+- Postman
+- REST APIs
+- Render
+- Google AI Studio
+
+---
+
+# 🌟 Featured Projects
+
+## 🧠 1. OpsMind AI
+
+### AI-Powered Business Operations & Intelligence Platform
+
+**OpsMind AI** is an AI-powered business intelligence platform designed to help businesses understand operational data and generate useful insights.
+
+### Features
+
+- 📊 Business analytics
+- 🤖 AI-powered insights
+- 📈 Operational dashboards
+- 🧠 Intelligent analysis
+- 📋 Business performance monitoring
+- 🔍 Data-driven decision support
+
+### Technologies
 
 ```text
-💡 Problem
-    ↓
-📊 Data / Requirements
-    ↓
-🧠 Logic & Analysis
-    ↓
-⚙️ Development
-    ↓
-🤖 AI / Automation
-    ↓
-🚀 Working Application
+Python
+AI / LLM
+Data Analytics
+Web Development
+REST APIs
